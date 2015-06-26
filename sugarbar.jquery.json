@@ -1,0 +1,25 @@
+{
+  "name": "sugarbar",
+  "title": "Sugar Drop Down Bar",
+  "description": "  Sugar Bar adds a drop down bar to the top of your page that's shown in a non intrusive manner, only when the page is scrolled and past the designated threshold (ie: &gt; 50px from the top of the page). It is ideal for pushing content that's optional yet merits user attention, such as an opt-in box or advertisement.",
+  "keywords": ["fixed menu", "bar", "fancy bar"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex17/sugarbar.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex17/sugarbar.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex17/sugarbar.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex17/sugarbar.htm"
+}
